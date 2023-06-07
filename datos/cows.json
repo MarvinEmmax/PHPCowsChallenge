@@ -1,0 +1,35 @@
+{
+    "truck_weight": "700",
+    "cows": [
+        {
+            "cow": 1,
+            "weight": 360,
+            "production": 40
+        },
+        {
+            "cow": 2,
+            "weight": 250,
+            "production": 35
+        },
+        {
+            "cow": 3,
+            "weight": 400,
+            "production": 43
+        },
+        {
+            "cow": 4,
+            "weight": 180,
+            "production": 28
+        },
+        {
+            "cow": 5,
+            "weight": 50,
+            "production": 12
+        },
+        {
+            "cow": 6,
+            "weight": 90,
+            "production": 13
+        }
+    ]
+}
