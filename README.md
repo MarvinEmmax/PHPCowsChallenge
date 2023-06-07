@@ -1,6 +1,6 @@
 # PHPCowsChallenge
-# EJERCICIO 1 :: PRUEBA TÉCNICA
-# SOLUCIÓN POR MARVIN EMMAX DEVELOPER. 10/2022.
+# EJERCICIO 1 :
+ SOLUCIÓN POR MARVIN EMMAX DEVELOPER. 10/2022.
 
 Usted está intentando abrir negocio de producción de leche, para ello necesita comprar vacas, cuando va a elegir las vacas se cruza con un problema, tiene a su disposición un camión con un cierto límite de peso, y un grupo de vacas disponibles para la venta. Cada vaca puede tener un peso distinto, y producir una cantidad diferente de leche al día.
 
